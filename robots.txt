@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://swoldemi.github.io/my-hugo-website//sitemap.xml
+Sitemap: https://swoldemi.github.io//sitemap.xml
