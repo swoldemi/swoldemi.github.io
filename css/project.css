@@ -6,9 +6,7 @@
 	  width: 100%;
 	}
 	.card:hover {
-	  transform: rotateY(180deg);
-	  transform: rotate(90deg);
-	  transform: rotate(360deg);
+	  transform: rotateX(180deg);
 	}
 	.card .side {
 	  backface-visibility: hidden;
@@ -17,11 +15,11 @@
 	  width: 100%;
 	}
 	.card .back {
-	  transform: rotateY(180deg);
+	  transform: rotateX(180deg);
 	}
 	 .card-container {
 	  height: 150px;
 	  perspective: 600;
 	  position: relative;
-	  width: 150px;
+	  width: 560px;
 	}
