@@ -961,7 +961,6 @@ button {
         #header nav ul li a:active {
           background-color: rgba(255, 255, 255, 0.175); }
   #header nav.use-middle:after {
-    content: '';
     display: block;
     position: absolute;
     top: 0;
@@ -969,8 +968,7 @@ button {
     width: 1px;
     height: 100%;
     background: #ffffff; }
-  #header nav.use-middle ul li.is-middle {
-    border-left: 0; }
+  #header nav.use-middle ul li.is-middle { }
   body.is-article-visible #header {
     -moz-transform: scale(0.95);
     -webkit-transform: scale(0.95);
