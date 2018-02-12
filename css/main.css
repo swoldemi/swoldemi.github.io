@@ -846,13 +846,13 @@ button {
     display: block; }
   @media screen and (max-width: 1680px) {
     #wrapper {
-      padding: 3rem 2rem; } }
+      padding: .75rem .5rem; } }
   @media screen and (max-width: 736px) {
     #wrapper {
-      padding: 2rem 1rem; } }
+      padding: .5rem .25rem; } }
   @media screen and (max-width: 480px) {
     #wrapper {
-      padding: 1rem; } }
+      padding: .25rem; } }
 
 /* Header */
 #header {
@@ -1007,7 +1007,7 @@ button {
       #header .logo .icon:before {
         font-size: 1.75rem; }
     #header .content .inner {
-      padding: 2.5rem 1rem; }
+      padding: 1.5rem 1rem; }
     #header .content p {
       line-height: 1.875; } }
   @media screen and (max-width: 480px) {
