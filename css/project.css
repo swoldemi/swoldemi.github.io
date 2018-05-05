@@ -63,3 +63,17 @@
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+
+.my-mtl-contact-button {
+	bottom: 5px;
+	left: 4px;
+	position: fixed;
+}
+
+
+.my-mtl-contacts {
+    width: 90%;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+/*Sources: https://codepen.io/brandonhimpfen/pen/EjpMEZ?editors=0100 and https://www.uplabs.com/posts/material-design-social-buttons-list*/
