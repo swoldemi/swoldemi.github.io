@@ -8,7 +8,7 @@ This repo contains the public build files compiled by [Hugo](https://github.com/
   - [ ] Update content of /#about
   - [ ] Update description of /
   - [ ] Replace /#contact with /#research (?)
-  - [ ] Update content of /#resources 
+  - [x] Update content of /#resources 
   - [ ] Responsive CSS
   
 ## Extra dependencies
