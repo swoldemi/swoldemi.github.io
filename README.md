@@ -6,7 +6,7 @@ This repo contains the public build files compiled by [Hugo](https://github.com/
   - [x] SSL ([5/4/2018](https://blog.github.com/2018-05-01-github-pages-custom-domains-https/))
   - [x] Update design of /#projects 
   - [ ] Update content of /#about
-  - [ ] Update description of /
+  - [ ] Update description in /
   - [ ] Replace /#contact with /#research (?)
   - [x] Update content of /#resources 
   - [ ] Responsive CSS
