@@ -12,7 +12,7 @@
 .project1-mdl-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('https://github.com/swoldemi/Araxxor-Drop-Logger/raw/master/docs/login_screenshot.PNG') center / cover;
+  background: url('/img/adl.png') center / cover;
 }
 .project1-mdl-card-wide > .mdl-card__menu {
   color: #fff;
@@ -24,11 +24,11 @@
 .project2-mdl-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('https://github.com/swoldemi/GanoGraphic/blob/master/test/klein-bottle.png?raw=true') center / cover;
+  background: url('/img/klein-bottle.png') center / cover;
 }
 .project2-mdl-card-wide > .mdl-card__title::after {
   content: "";
-  background: url(https://github.com/swoldemi/GanoGraphic/blob/master/test/klein-bottle.png?raw=true);
+  background: url('/img/klein-bottle.png');
   opacity: 0.5;
   top: 0;
   left: 0;
@@ -45,7 +45,7 @@
 .project3-mdl-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('https://qph.fs.quoracdn.net/main-qimg-e0060865872cba85cf59df35c61de626-c') center / cover;
+  background: url('/img/svm.jpg') center / cover;
 }
 .project3-mdl-card-wide > .mdl-card__menu {
   color: #fff;
@@ -57,7 +57,7 @@
 .project4-mdl-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('https://cv-tricks.com/wp-content/uploads/2017/03/tensorflow-logo.png') center / cover;
+  background: url('/img/tensorflow.png') center / cover;
 }
 .project4-mdl-card-wide > .mdl-card__menu {
   color: #fff;
@@ -69,7 +69,7 @@
 .project5-mdl-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('https://i.imgur.com/SFyEpK1.png') center / cover;
+  background: url('/img/nervbot.png') center / cover;
 }
 /*******************************************************/
 .project6-mdl-card-wide.mdl-card {
@@ -78,7 +78,7 @@
 .project6-mdl-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('https://i.imgur.com/AZNKSGW.png') center / cover;
+  background: url('/img/sytether.png') center / cover;
 }
 /*******************************************************/
 .resource-link { }

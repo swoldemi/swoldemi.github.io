@@ -8,5 +8,6 @@ for icon in image_icons:
 	image_name = image_name[len(image_name)-1]
 	image_list.append("../img/icons/{}".format(image_name))
 	print(image_name)
+	# urllib.urlretrieve(icon, image_name)
 	
 print(image_list)
