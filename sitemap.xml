@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  
-  <url>
-    <loc>https://swoldemi.me//#contact</loc>
-  </url>
-  
-  <url>
-    <loc>https://swoldemi.me//#about</loc>
-  </url>
-  
-  <url>
-    <loc>https://swoldemi.me//#board</loc>
-  </url>
   
   <url>
     <loc>https://swoldemi.me//#resources</loc>
@@ -24,21 +11,6 @@
   
   <url>
     <loc>https://swoldemi.me//#projects</loc>
-  </url>
-  
-  <url>
-    <loc>https://swoldemi.me//#</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swoldemi.me//#</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://swoldemi.me//#</loc>
-    <priority>0</priority>
   </url>
   
   <url>
